@@ -1,2 +1,3 @@
 ## Nixii
-Hi, I'm Nixii, I am a programmer and music producer.
+**Languages**: C, Rust, Python, Lua
+**Website**: WIP
