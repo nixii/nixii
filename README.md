@@ -1,3 +1,3 @@
 ## Nixii
-- **Languages**: C, Rust, Python, Lua
-- **Website**: WIP
+- **Languages**: C, Python, Lua, Java, JavaScript
+- **Website**: https://nixii.dev
